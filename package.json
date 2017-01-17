@@ -1,12 +1,15 @@
 {
   "name": "thousands",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A micro javascript library for formatting numbers with thousands separator",
   "main": "index.js",
   "scripts": {
     "test": "ava",
     "lint": "eslint ."
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/scurker/thousands.git"
