@@ -1,0 +1,31 @@
+{
+  "name": "thousands",
+  "version": "1.0.0-prerelease",
+  "description": "A micro javascript library for formatting numbers with thousands separator",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scurker/thousands.git"
+  },
+  "author": "Jason Wilson <jason@scurker.com>",
+  "license": "MIT",
+  "keywords": [
+    "number",
+    "numbers",
+    "currency",
+    "money",
+    "utilities",
+    "format",
+    "formatting",
+    "thousands",
+    "separator"
+  ],
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "eslint": "^3.13.1"
+  }
+}

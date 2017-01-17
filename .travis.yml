@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - '4'
+  - 'latest'
+sudo: false
+script:
+  - npm run lint
+cache:
+  directories:
+  - node_modules
