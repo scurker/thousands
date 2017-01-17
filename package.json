@@ -1,6 +1,6 @@
 {
   "name": "thousands",
-  "version": "1.0.0-prerelease",
+  "version": "1.0.0",
   "description": "A micro javascript library for formatting numbers with thousands separator",
   "main": "index.js",
   "scripts": {
