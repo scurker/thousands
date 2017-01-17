@@ -3,7 +3,7 @@ node_js:
   - '4'
   - 'node'
 sudo: false
-script:
+before_script:
   - npm run lint
 cache:
   directories:
