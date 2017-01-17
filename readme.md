@@ -1,5 +1,4 @@
 # thousands [![Build Status](https://travis-ci.org/scurker/thousands.svg?branch=master)](https://travis-ci.org/scurker/thousands) [![npm](https://img.shields.io/npm/v/thousands.svg?style=flat)](https://www.npmjs.com/package/thousands)
-==========
 
 A micro javascript library for formatting numbers with thousands separator.
 
